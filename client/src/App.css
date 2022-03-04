@@ -36,3 +36,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.form-input{
+  @apply mt-1 block w-full py-2 px-3 border border-gray-200 bg-white rounded-md focus:outline-none focus:ring-indigo-500 sm:text-sm;
+}
